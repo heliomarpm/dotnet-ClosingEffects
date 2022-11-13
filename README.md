@@ -1,2 +1,1 @@
-# dotnet-ClosingEffets
-.NET Samples - Form Closing Effects
+# .NET Samples - Form Closing Effects
